@@ -37,7 +37,11 @@ flutter test
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/flutter-trading-app.git
+   # For SSH
+   git clone git@github.com:IvanBabic26/stock-monitor-app.git
+   # HTTPS
+   git clone https://github.com/IvanBabic26/stock-monitor-app.git
+   
    cd flutter-trading-app
    ```
 2. **Install dependencies**
